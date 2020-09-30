@@ -1,0 +1,7 @@
+,car_ID,symboling,CarName,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,wheelbase,carlength,carwidth,carheight,curbweight,enginetype,cylindernumber,enginesize,fuelsystem,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price,brand
+16,17,0,bmw x5,gas,std,2,sedan,rwd,front,103.5,193.8,67.9,53.7,3380,ohc,6,209,mpfi,3.62,3.39,8.0,182,5400,16,22,35315.0,bmw
+35,36,0,honda accord lx,gas,std,4,sedan,fwd,front,96.5,163.4,64.0,54.5,2010,ohc,4,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7295.0,honda
+102,103,0,nissan fuga,gas,std,4,wagon,fwd,front,100.4,184.6,66.5,56.1,3296,ohcv,6,181,mpfi,3.43,3.27,9.0,152,5200,17,22,14399.0,nissan
+108,109,0,peugeot 304,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3197,l,4,152,idi,3.7,3.52,21.0,95,4150,28,33,13200.0,peugeot
+147,148,0,subaru tribeca,gas,std,4,wagon,fwd,front,97.0,173.5,65.4,53.0,2455,ohcf,4,108,mpfi,3.62,2.64,9.0,94,5200,25,31,10198.0,subaru
+185,186,2,volkswagen type 3,gas,std,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2212,ohc,4,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8195.0,volkswagen
